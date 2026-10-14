@@ -36,12 +36,12 @@
 
 ### 🎨 Frontend Frameworks & Libraries
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,bootstrap,sass,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,vue,tailwind,bootstrap,sass,vite&theme=dark" />
 </p>
 
 ### ⚙️ Backend Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,spring&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" />
 </p>
 
 ### 🤖 AI / ML Frameworks & Tools
@@ -68,12 +68,12 @@
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ashutosh24rana&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutosh24rana&layout=compact&theme=radical&hide_border=true" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=Ashutosh24rana&theme=radical&hide_border=true" />
 
 </div>
 
@@ -82,7 +82,7 @@
 ## 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ashutosh24rana&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
 </div>
 
 ---
@@ -90,7 +90,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=a78bfa&line=6a11cb&point=ffffff&area=true&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh24rana&bg_color=0d1117&color=a78bfa&line=6a11cb&point=ffffff&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
